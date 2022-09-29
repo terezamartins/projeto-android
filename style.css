@@ -61,6 +61,7 @@ main {
     text-indent: 40px;
     min-width: 300px;
     max-width: 1000px;
+    margin: auto;
 }
 main img {
     width: 100%;
